@@ -1,0 +1,1 @@
+Rscript /Users/usuario/Desktop/Observatorio/Twitter/ProgramasenR/limpiador de Base/limpiadordebases.R
